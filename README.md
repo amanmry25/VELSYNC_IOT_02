@@ -1,4 +1,4 @@
-# VELSYNC_ES_02
+# VELSYNC_IOT_02
 
  Task 02: LED Control Using Mobile App (Blynk)
 
